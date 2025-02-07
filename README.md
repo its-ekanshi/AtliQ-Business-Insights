@@ -15,9 +15,6 @@ AtliQ Business Insights is a **comprehensive Sales & Finance Analytics project**
 - **Power Pivot** – Data modeling & calculations  
 - **DAX (Data Analysis Expressions)** – Financial calculations & KPI tracking  
 
-## 📊 Dashboards  
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Dashboard+Preview) *(Replace with an actual screenshot)*  
-
 ## 🔗 Project Links  
 - **Sales Insights Repo:** [AtliQ Sales Insights](https://github.com/its-ekanshi/AtliQ-Sales-Insights)  
 - **Financial Insights Repo:** [AtliQ Financial Insights](https://github.com/its-ekanshi/AtliQ-Financial-Insights)  
