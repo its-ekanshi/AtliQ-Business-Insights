@@ -19,8 +19,4 @@ AtliQ Business Insights is a **comprehensive Sales & Finance Analytics project**
 - **Sales Insights Repo:** [AtliQ Sales Insights](https://github.com/its-ekanshi/AtliQ-Sales-Insights)  
 - **Financial Insights Repo:** [AtliQ Financial Insights](https://github.com/its-ekanshi/AtliQ-Financial-Insights)  
 
-## 📩 Contact  
-📧 Email: [saxena.ekanshi30@gmail.com]  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ekanshisaxena)  
-
 ---
