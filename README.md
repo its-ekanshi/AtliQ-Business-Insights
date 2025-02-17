@@ -25,7 +25,7 @@ AtliQ Business Insights is a **comprehensive Sales & Finance Analytics project**
 - **Financial Modeling**: Improved accuracy in financial calculations with DAX.
 
 ## 📞 Contact  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ekanshi-saxena/) or check out my work on [GitHub](https://github.com/its-ekanshi).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/) or check out my work on [GitHub](https://github.com/its-ekanshi).
 
 ---
 
