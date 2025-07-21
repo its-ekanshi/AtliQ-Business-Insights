@@ -28,4 +28,3 @@ AtliQ Business Insights is a **comprehensive Sales & Finance Analytics project**
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ekanshisaxena/) or check out my work on [GitHub](https://github.com/its-ekanshi).
 
 ---
-
